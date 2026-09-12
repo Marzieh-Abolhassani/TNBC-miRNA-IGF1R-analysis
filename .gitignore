@@ -1,0 +1,8 @@
+data/
+results/
+figures/
+session_info.txt
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
