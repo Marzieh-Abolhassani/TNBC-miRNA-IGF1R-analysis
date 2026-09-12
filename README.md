@@ -25,7 +25,7 @@ GEO validation cohort	Expression array, survival	GEO
 TNBC is defined in two independent ways — by IHC receptor status (ER−/PR−/HER2−) and by PAM50 basal-like subtype — and all main results are reported under both definitions.
 
 Pipeline
-scripts/
+Scripts/
   00_setup.R                      package installation, session info
   01_download_data.R              TCGA retrieval
   02_preprocess.R                 cohort definition and merging
